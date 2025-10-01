@@ -48,5 +48,6 @@ def browser(request):
 
     driver.close()
 
+
 def something():
     pass
