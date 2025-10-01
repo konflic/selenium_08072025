@@ -47,3 +47,6 @@ def browser(request):
     yield driver
 
     driver.close()
+
+def something():
+    pass
